@@ -1,59 +1,65 @@
-[![Performium](https://i.imgur.com/7GRPfTS.png)](https://i.imgur.com/Cm6H0vy.png)
+# Performium
 
-Interested in a barebones version? Check out [**Performium Nano**](https://modrinth.com/project/performium-nano)
+A lightweight, performance-focused Fabric modpack designed to enhance Minecraft with refined visuals, seamless textures, and quality-of-life improvements..
 
-# About Performium
-**Performium** is a lightweight, optimized Fabric-based modpack designed to enhance your Minecraft experience with stunning visuals, seamless textures, and quality-of-life improvements—all while maintaining excellent performance.
+> This repository contains **configuration files, manifests, and issue tracking** for the Performium modpack.  
+> **No mod JARs are distributed here.**
 
+## About Performium
+**Performium** focuses on delivering a clean, smooth Minecraft experience by carefully selecting and configuring a minimal set of mods. The goal is consistency, performance, and polish — not bloat.
 
-# Features
-✅ **Enhanced Visuals** – Stunning shaders, connected textures, and refined models.   
-✅ **Optimized Gameplay** – Smooth mouse controls and performance tweaks.   
-✅ **Minimalist Approach** – Never over **50 mods** for efficiency.   
-✅ **Broad Compatibility** – Supports **Minecraft 1.20.4 – 1.21+** and works with:  
-   - 🟢 **Windows**
-   - 🟢 **Debian-based Linux Distros** 
-   - 🟢 **Modrinth App**
-   - 🟢 **Prism Launcher**
-   - 🟢 **ATLauncher**
+- Fabric-based
+- Performance-first philosophy
+- Carefully tuned configs
+- Minimalist mod selection (never over **50 mods**)
 
-Always use the latest **Performium** version for the best experience.
+## Features
+- **Enhanced Visuals** – Connected textures, refined models, and optional shaders  
+- **Optimized Gameplay** – Smooth controls and performance-oriented tweaks  
+- **Minimalist Design** – Lean mod selection for stability and efficiency  
+- **Broad Compatibility** – Supports **Minecraft 1.20.4 – 1.21.X+**
 
+Tested and used with:
+- Windows
+- Debian-based Linux distributions
+- Modrinth App
+- Prism Launcher
+- ATLauncher
 
-# Installation (Modrinth App)
-1. **Download & Install** the [Modrinth App](https://modrinth.com/app).
-2. **Login** with your Minecraft account.
-3. **Browse** on the left sidebar.
-4. **Search** for Performium.
-5. **Download & Install** the first result.
+## Installation
+Performium is distributed via **Modrinth**.
 
+👉 Install using the **[Modrinth App](https://modrinth.com/app)**  
+Search for **Performium** and install the latest version.
 
-# Versioning System
-Performium follows a structured versioning format:
-```
+## Repository Purpose
+This repository exists to:
+- Track bugs and crashes
+- Manage configuration and balance changes
+- Store modpack manifests
+
+If you encounter an issue, please **open a GitHub Issue** and include:
+- Minecraft version
+- Loader version
+- Logs or crash reports
+- Steps to reproduce
+
+## Versioning
+Performium uses a structured semantic versioning system:
+
 v[ModpackVersion]-[Stage]+[Build]
-```
 
-## Example Versions
-- `v1.0.0-Alpha+1` – Fist alpha build of version 1.0.0
-- `v1.0.0-Beta+1` – First beta build of version 1.0.0
-- `v1.0.0-Release+1` – First stable build of version 1.0.0
+### Examples
+- `v1.0.0-Alpha+1`
+- `v1.0.0-Beta+1`
+- `v1.0.0-Release+1`
 
-## Breakdown
-- **v[ModpackVersion]** → Uses **Semantic Versioning** (MAJOR.MINOR.PATCH)
-- **[Stage]** → Alpha, Beta, or Release
-- **[Build]** → Build Number for each Version
+### Breakdown
+- **ModpackVersion** → Semantic Versioning (MAJOR.MINOR.PATCH)
+- **Stage** → Alpha / Beta / Release
+- **Build** → Incremental build number
 
-# Support & Community
-For help, bug reports, or feedback, join our **[Discord Server](https://discord.membercat.com)** or email me at `me@maybeizen.space`
-
-
-# Credits
-This project is part of **Membercat Studios** by **KasaiSora**.
-
-[<img src="https://codingcat2468.github.io/assets/images/membercat_studios.png" height="60" width="200"/>](https://membercat.com)
-
-## Contributors:
-- **maybeizen** – Development
-
-Join our **[Discord](https://dc.kasai.gg)** to stay updated!
+## Support & Community
+- Bug reports & suggestions: **GitHub Issues**
+- Community & updates: **[Discord](https://discord.membercat.com)**
+- Contact: `me@maybeizen.space`
