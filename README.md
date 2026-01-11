@@ -44,21 +44,6 @@ v[ModpackVersion]-[Stage]+[Build]
 - **[Stage]** → Alpha, Beta, or Release
 - **[Build]** → Build Number for each Version
 
-
-# License
-All Rights Reserved   
-Copyright © 2025 maybeizen. All Rights Reserved.
-
-This modpack, **Performium**, may NOT be:
-
-- Reuploaded anywhere.
-- Forked, altered, or redistributed.
-- Used as a base for other modpacks.
-- Used to take assets (textures, sounds, configs, etc.).
-- Given a confusingly similar name or branding.
-
-Any violation will result in takedowns and other enforcement. Written permission from **maybeizen** is required for any use not covered here.
-
 # Support & Community
 For help, bug reports, or feedback, join our **[Discord Server](https://discord.membercat.com)** or email me at `me@maybeizen.space`
 
